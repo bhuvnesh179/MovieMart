@@ -1,2 +1,0 @@
-# MovieMart
- Movie Purchase Website 
